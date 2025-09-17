@@ -7,6 +7,8 @@ FeedbackNet V1 is a research project that explores how adding feedback loops to 
 
 Transformers are widely used in machine learning, but they often struggle with tasks that require iterative reasoning. FeedbackNet V1 introduces a simple feedback mechanism that allows the model to use information from higher layers to improve the output of lower layers. This leads to better learning and performance, especially in reasoning tasks.
 
+Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZG-gKg?usp=sharing
+
 ![alt text](image-2.png)
 
 
