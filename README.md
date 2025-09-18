@@ -9,7 +9,7 @@ Transformers are widely used in machine learning, but they often struggle with t
 
 Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZG-gKg?usp=sharing
 
-![alt text](image-2.png)
+![alt text](diagram.png)
 
 ---
 ## Features
@@ -26,10 +26,10 @@ Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZ
 FeedbackNet V1 shows noticeable improvement in performance compared to a standard FeedForward Transformer on synthetic tasks. The results suggest that feedback can be a useful addition to Transformer models.
 
 ### Training Loss Over Epochs: [FeedForward vs. FeedbackNet V1]
-![alt text](image.png)
+![alt text](graph-1.png)
 
 ### Final Accuracy Comparison: [FeedForward vs. FeedbackNet V1]
-![alt text](image-1.png)
+![alt text](graph-2.png)
 
 ---
 MIT License
