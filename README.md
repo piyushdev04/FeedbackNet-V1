@@ -9,7 +9,7 @@ Transformers are widely used in machine learning, but they often struggle with t
 
 Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZG-gKg?usp=sharing
 
-![alt text](image-3.png)
+![alt text](image-2.png)
 
 ---
 ## Features
