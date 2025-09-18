@@ -9,8 +9,7 @@ Transformers are widely used in machine learning, but they often struggle with t
 
 Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZG-gKg?usp=sharing
 
-![alt text](image-2.png)
-
+![alt text](image-3.png)
 
 ---
 ## Features
@@ -20,7 +19,6 @@ Colab-Link: https://colab.research.google.com/drive/1tTYPAIQdd-JD_OC4oMx21mapwyZ
 - Synthetic dataset for arithmetic reasoning tasks
 - Comparison with standard Transformer architecture
 - Provides a baseline for future versions (V2)
-
 
 ---
 ## Results
